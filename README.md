@@ -1,4 +1,4 @@
 The Veterans
 =======
 
-BaseKit Enom Veteran Template
+BaseKit Enom Veteran Theme
