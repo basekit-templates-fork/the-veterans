@@ -1,4 +1,4 @@
-Adventure
+The Veterans
 =======
 
-BaseKit Standard Template
+BaseKit Enom Veteran Template
